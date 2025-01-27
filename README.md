@@ -14,7 +14,7 @@ Database: MySQL
 
 ## Dashboard
 <br>
-
+<img src= "https://github.com/renukadhule/Target_Retailer_Power_BI_Analysis/blob/master/Screenshorts/First.png">
 
 
 
