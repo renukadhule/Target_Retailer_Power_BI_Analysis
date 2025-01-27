@@ -6,7 +6,7 @@ Founded in 1902, Target is one of the largest retailers in the United States. Kn
 
 ## Tools and Technologies
 SQL: For data cleaning, transformation, and querying.
-
+Database: MySQL
 
 
 
