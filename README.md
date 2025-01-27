@@ -5,7 +5,7 @@
 Founded in 1902, Target is one of the largest retailers in the United States. Known for its diverse product range, Target offers clothing, electronics, household essentials, groceries, and more, making it a one-stop shop for millions of customers.
 
 ## Tools and Technologies
-SQL: For data cleaning, transformation, and querying.
+SQL: For data cleaning, transformation, and querying.<br>
 Database: MySQL
 
 
