@@ -1,5 +1,8 @@
+# Target Retailer Analysis
+![Image](https://sandhillssentinel.com/wp-content/uploads/2024/08/Target-SHS-.jpg)
+
 ## Project Overview
-Overview Target is the eighth-largest retailer in the United States, founded in 1902. It operates as a general merchandise retailer, offering various products including clothing, household essentials, electronics, toys, beauty products, groceries, and more. Goals Perform analysis of the Target Company data to provide and drive insights that would help the company make strategic decisions.
+Founded in 1902, Target is one of the largest retailers in the United States. Known for its diverse product range, Target offers clothing, electronics, household essentials, groceries, and more, making it a one-stop shop for millions of customers.
 
 ## Tools and Technologies
 SQL: For data cleaning, transformation, and querying.
