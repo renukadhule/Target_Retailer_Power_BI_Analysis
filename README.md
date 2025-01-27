@@ -1,5 +1,5 @@
 # Target Retailer Analysis
-![Image](https://sandhillssentinel.com/wp-content/uploads/2024/08/Target-SHS-.jpg)
+<img src="https://sandhillssentinel.com/wp-content/uploads/2024/08/Target-SHS-.jpg" height="320" width= "1490">
 
 ## Project Overview
 Founded in 1902, Target is one of the largest retailers in the United States. Known for its diverse product range, Target offers clothing, electronics, household essentials, groceries, and more, making it a one-stop shop for millions of customers.
