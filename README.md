@@ -4,6 +4,9 @@
 ## Project Overview
 Founded in 1902, Target is one of the largest retailers in the United States. Known for its diverse product range, Target offers clothing, electronics, household essentials, groceries, and more, making it a one-stop shop for millions of customers.
 
+## Dataset 
+[get the data from here](https://github.com/renukadhule/Target_Retailer_Power_BI_Analysis/tree/master/dataset)
+
 ## Tools and Technologies
 SQL: For data cleaning, transformation, and querying.<br>
 Database: MySQL
